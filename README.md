@@ -2,7 +2,7 @@
 Примеры различных видов документации. Содержание абстрагировано, чтобы сохранить суть документов. 
 
 ## Содержание
-[Тест-стратегия](https://github.com/fuwinski/qa-documentation-templates/edit/main/README.md#test-strategy)
+[Тест-стратегия](#test-strategy)
 # Test-strategy
 
 ## 1. Scope and Overview
